@@ -218,7 +218,86 @@ td { vertical-align: top; }
    Author:
    ========================================================================== */
 
+html{
+  background: #999;
+}
 
+body{
+  width: 1024px;
+  margin:auto;
+  background: url('../img/top-background.png') no-repeat black;
+  min-height:768px;
+}
+
+header{
+  width:100%;
+}
+
+header img.logo{
+  width: 90%;
+  display:block;
+  margin: auto;
+  padding: 51.5px 0px;
+}
+
+div[role=main] img.graphic{
+  display:block;
+  width: 100%;
+}
+
+div[role=main] section.cats{
+  background: url('../img/bottom-background.png') no-repeat black;
+  background-position:bottom;
+  width:100%;
+  min-height:1707px;
+}
+
+div[role=main] section.cats article{
+    height:200px;
+    border-bottom: 3px solid #999999;
+    padding: 20px 0px;
+}
+
+div[role=main] section.cats article div.img{
+    width: 200px;
+    float:left;
+    text-align:center;
+}
+
+div[role=main] section.cats article div.img img{
+    width: 120px;
+    margin-top: 10px;
+}
+
+div[role=main] section.cats article div.info{
+    width: 600px;
+    float:left;
+    margin-left: 10px;
+    font-size: 18px;
+    color: #d3d3d3;
+}
+
+div[role=main] section.cats article div.info span.cat{
+    text-transform: uppercase;
+    font-size: 28px;
+    font-weight:bold;
+    display:block;
+    color: #999;
+    margin-bottom: 10px;
+}
+
+div[role=main] section.cats article div.info ul{
+    margin:0;
+    padding-left:20px;
+}
+
+div[role=main] section.cats article div.info ul li{
+    line-height: 18px;
+    margin-bottom: 8px;    
+}
+
+
+    
 
 
 
