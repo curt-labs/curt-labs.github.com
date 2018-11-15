@@ -1,43 +1,15 @@
-/* the humans responsible & colophon */
-/* humanstxt.org */
+# humanstxt.org/
+# The humans responsible & technology colophon
 
+# TEAM
 
-/* TEAM */
-  mCommmerce Application Engineer: Alex Ninneman
-  Site: http://ninneman.org
-  Twitter: @ninnemana
-  Location: Eau Claire, WI
+    Erik Hanson -- Senior Software Developer Manager -- @erik_hanson
 
-/* THANKS */
-  Names (& URL): Paul Irish/John Resig
+# THANKS
 
-/* SITE */
-  Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
-  Software:
+    Alex Ninneman -- eCommerce Application Engineer -- @ninnemana
 
+# TECHNOLOGY COLOPHON
 
-
-                               -o/-
-                               +oo//-
-                              :ooo+//:
-                             -ooooo///-
-                             /oooooo//:
-                            :ooooooo+//-
-                           -+oooooooo///-
-           -://////////////+oooooooooo++////////////::
-            :+ooooooooooooooooooooooooooooooooooooo+:::-
-              -/+ooooooooooooooooooooooooooooooo+/::////:-
-                -:+oooooooooooooooooooooooooooo/::///////:-
-                  --/+ooooooooooooooooooooo+::://////:-
-                     -:+ooooooooooooooooo+:://////:--
-                       /ooooooooooooooooo+//////:-
-                      -ooooooooooooooooooo////-
-                      /ooooooooo+oooooooooo//:
-                     :ooooooo+/::/+oooooooo+//-
-                    -oooooo/::///////+oooooo///-
-                    /ooo+::://////:---:/+oooo//:
-                   -o+/::///////:-      -:/+o+//-
-                   :-:///////:-            -:/://
-                     -////:-                 --//:
-                       --                       -:
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
