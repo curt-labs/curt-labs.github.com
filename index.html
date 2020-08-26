@@ -17,9 +17,15 @@
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/font-awesome.css">
   <link rel="stylesheet" href="css/bootstrap-social.css">
+  <script>
+    function redirect(){
+     console.log(document.referrer);
+     //location.replace(""); 
+    }
+  </script>
 </head>
 
-<body>
+<body onload="redirect();">
   <!--[if lte IE 9]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
